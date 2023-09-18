@@ -15,7 +15,6 @@ std::cout<<"The equivalent binary no. is ";
 std::reverse(vec.begin(),vec.end());
     for(int i:vec)
     {
-
         std::cout    <<   i   ;
     }
 }
